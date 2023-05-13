@@ -11,3 +11,7 @@ After the script finishes running, you can open the CSV file in a spreadsheet pr
 
 ## Contributing
 If you find any bugs or issues with the script, or if you have any suggestions for improvement, feel free to create an issue or submit a pull request. We welcome contributions from the community!
+
+# Any improvements?
+- Add more exception handling 
+- Allow opening of each url so that we can collect the genre, the year published, number of pages, other book recommendations, how many books the author has written and the first few lines of the description for each book. (This will mean creating multiple soups for each url so a more efficient library may be necessary. 
